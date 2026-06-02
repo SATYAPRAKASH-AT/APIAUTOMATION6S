@@ -1,5 +1,5 @@
 APIAutomationRestAssured (In Java)
-Author - SATYA
+Author - SATYA PRAKASH
 API Automation Framework with the CRUD of Restful Booker
 
 mvn test -Dsurefire.suiteXmlFiles=testng.xml
